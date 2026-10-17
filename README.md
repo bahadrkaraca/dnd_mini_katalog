@@ -74,25 +74,6 @@ assets/
 └── images/                    # Ürün ve banner görselleri
 ```
 
-## Eğitimde işlenen konuların karşılığı
-
-| Konu | Nerede |
-|---|---|
-| Stateless / Stateful widget | `ProductCard` / `HomeScreen`, `DetailScreen` |
-| Navigator.push / pop, Named Routes | `main.dart`, `Navigator.pushNamed` |
-| Route Arguments | Ana sayfa → `DetailScreen` (ürün nesnesi) |
-| Model sınıfı, fromJson / toJson | `models/product.dart` |
-| JSON simülasyonu, asset yönetimi | `assets/data/products.json`, `rootBundle` |
-| ListView.builder / GridView | `cart_screen.dart`, `home_screen.dart` |
-| Arama ve filtreleme | `HomeScreen._filtered` |
-| Basit state güncelleme | Boyut seçimi (`setState`), sepet (`ChangeNotifier`) |
-
-## Ekran görüntüleri
-
-| Ana sayfa | Detay | Sepet |
-|---|---|---|
-| ![Ana sayfa](screenshots/home.png) | ![Detay](screenshots/detail.png) | ![Sepet](screenshots/cart.png) |
-
 ## Not
 
 Ürün görselleri yer tutucudur; kendi baskılarının fotoğraflarıyla `assets/images/` içindeki dosyaları değiştirebilirsin. Sipariş ekranı bir simülasyondur, gerçek ödeme alınmaz.
