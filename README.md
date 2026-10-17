@@ -73,7 +73,3 @@ assets/
 ├── data/products.json         # Ürün verisi (JSON simülasyonu)
 └── images/                    # Ürün ve banner görselleri
 ```
-
-## Not
-
-Ürün görselleri yer tutucudur; kendi baskılarının fotoğraflarıyla `assets/images/` içindeki dosyaları değiştirebilirsin. Sipariş ekranı bir simülasyondur, gerçek ödeme alınmaz.
