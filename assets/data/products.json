@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Cüce Savaşçı",
+    "category": "Kahraman",
+    "tagline": "Baltası ve kalkanıyla",
+    "description": "Ağır zırhlı, çift başlı baltalı cüce savaşçı. Sakal detayları ve kalkan üzerindeki rün işlemeleri reçine baskıda çok net çıkar. Oyuncu karakteri olarak idealdir.",
+    "basePrice": 120,
+    "image": "assets/images/dwarf.png",
+    "sizes": ["S", "M"],
+    "material": "Reçine",
+    "printHours": 3
+  },
+  {
+    "id": 2,
+    "name": "Elf Büyücü",
+    "category": "Kahraman",
+    "tagline": "Asası ve büyü kitabıyla",
+    "description": "Uzun pelerinli, elinde parlayan asa tutan elf büyücü. İnce asa detayı nedeniyle reçine baskı önerilir. Boyamaya hazır, destekleri temizlenmiş olarak gönderilir.",
+    "basePrice": 130,
+    "image": "assets/images/wizard.png",
+    "sizes": ["S", "M"],
+    "material": "Reçine",
+    "printHours": 3
+  },
+  {
+    "id": 3,
+    "name": "Halfling Hırsız",
+    "category": "Kahraman",
+    "tagline": "Gölgelerin ustası",
+    "description": "Kapüşonlu, iki hançerli halfling hırsız. Küçük boyutuna rağmen yüz ve pelerin kıvrımları detaylıdır.",
+    "basePrice": 110,
+    "image": "assets/images/rogue.png",
+    "sizes": ["T", "S"],
+    "material": "Reçine",
+    "printHours": 2
+  },
+  {
+    "id": 4,
+    "name": "Goblin Çetesi",
+    "category": "Canavar",
+    "tagline": "Her masada bir tane",
+    "description": "Paslı kılıçlı, sinsi bakışlı goblin. Karşılaşmalar için birden fazla adet alınması tavsiye edilir.",
+    "basePrice": 70,
+    "image": "assets/images/goblin.png",
+    "sizes": ["S", "M"],
+    "material": "Reçine",
+    "printHours": 2
+  },
+  {
+    "id": 5,
+    "name": "Mimik Sandık",
+    "category": "Canavar",
+    "tagline": "Hazine sandığı... değil",
+    "description": "Dişleri ve dili dışarıda, açılmış bir mimik sandık. Masada sürpriz anlar yaratmak için birebir.",
+    "basePrice": 90,
+    "image": "assets/images/mimic.png",
+    "sizes": ["M", "L"],
+    "material": "PLA / Reçine",
+    "printHours": 3
+  },
+  {
+    "id": 6,
+    "name": "Baykuşayı",
+    "category": "Canavar",
+    "tagline": "Ormanın korkulu rüyası",
+    "description": "Pençelerini açmış, saldırı pozundaki baykuşayı (owlbear). Tüy ve kürk dokusu yüksek çözünürlükte basılır.",
+    "basePrice": 150,
+    "image": "assets/images/owlbear.png",
+    "sizes": ["L", "H"],
+    "material": "Reçine",
+    "printHours": 5
+  },
+  {
+    "id": 7,
+    "name": "Beholder",
+    "category": "Boss",
+    "tagline": "On göz, tek bir bakış",
+    "description": "Havada süzülen, göz saplarıyla çevrili beholder. Şeffaf çubuk ile kaide üzerine monte edilir. Göz sapları ayrı parça olarak basılıp yapıştırılır.",
+    "basePrice": 180,
+    "image": "assets/images/beholder.png",
+    "sizes": ["L", "H"],
+    "material": "Reçine",
+    "printHours": 7
+  },
+  {
+    "id": 8,
+    "name": "Kırmızı Ejderha",
+    "category": "Boss",
+    "tagline": "Kampanyanın final boss'u",
+    "description": "Kanatları açık, ateş püskürten kırmızı ejderha. Büyük boyutlarda kanatlar ve kuyruk ayrı parça olarak basılır ve kolay montaj için pimlidir.",
+    "basePrice": 250,
+    "image": "assets/images/dragon.png",
+    "sizes": ["L", "H", "G"],
+    "material": "PLA + Reçine",
+    "printHours": 14
+  },
+  {
+    "id": 9,
+    "name": "Ölüm Şövalyesi",
+    "category": "Boss",
+    "tagline": "Lanetli zırh, sönmeyen kin",
+    "description": "Yanan gözlü, büyük kılıçlı ölüm şövalyesi. Pelerin ve zırh plakaları keskin hatlıdır.",
+    "basePrice": 160,
+    "image": "assets/images/knight.png",
+    "sizes": ["M", "L"],
+    "material": "Reçine",
+    "printHours": 4
+  },
+  {
+    "id": 10,
+    "name": "Hazine Seti",
+    "category": "Aksesuar",
+    "tagline": "Altın, iksir ve parşömen",
+    "description": "Altın yığını, iksir şişeleri ve parşömenlerden oluşan masa dekoru. Zindan odalarını canlandırmak için.",
+    "basePrice": 60,
+    "image": "assets/images/treasure.png",
+    "sizes": ["T", "S", "M"],
+    "material": "PLA",
+    "printHours": 2
+  }
+]
